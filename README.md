@@ -78,4 +78,4 @@ Bagdes displaying *Made with GameMaker Studio* and *Made with GameMaker Studio 2
 
 # Sources:
 - [shields.io](https://shields.io)
-- [Game Maker](https://www.yoyogames.com/gamemaker)
+- [GameMaker Studio](https://www.yoyogames.com/gamemaker)

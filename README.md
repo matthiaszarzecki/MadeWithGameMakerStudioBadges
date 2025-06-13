@@ -54,7 +54,7 @@ Bagdes displaying *Made with GameMaker Studio* and *Made with GameMaker Studio 2
 
 # More Badges
 
-- Made with Unity Badges: https://github.com/matthiaszarzecki/MadeWithUnityBadges/blob/master/README.md
+- Made with Unity Badges: https://github.com/matthiaszarzecki/MadeWithUnityBadges
 - Made with Godot Badges: https://github.com/matthiaszarzecki/MadeWithGodotBadges
 
 # Sources
